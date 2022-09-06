@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.text{
+    align-items: center;
+    text-align: center;
+    
+}
+
+.open-img{
+    text-align: center;
+}
+
+.btn{
+    padding: 20px 30px;
+}
+
+#photo-block{
+    text-align: center;
+    display: none;
+}
+
+.size{
+    width: 300px;
+}
